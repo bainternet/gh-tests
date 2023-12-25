@@ -5,7 +5,7 @@
     "author_profile" : "https://profiles.wordpress.org/elementor",
     "donate_link" : "",
     "version" : "1.1",
-    "download_url" : "https://github.com/bainternet/image-optimizer/releases/download/1.1.0/image-optimization.zip",
+    "download_url" : "https://github.com/bainternet/gh-tests/releases/download/1.1.0/tmp.zip",
     "requires" : "6.3",
     "tested" : "6.4",
     "requires_php" : "7.4",
