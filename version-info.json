@@ -1,0 +1,24 @@
+{
+    "name" : "Image Optimizer",
+    "slug" : "image-optimization",
+    "author" : "<a href='https://elementor.com'>Elementor</a>",
+    "author_profile" : "https://profiles.wordpress.org/elementor",
+    "donate_link" : "",
+    "version" : "1.1",
+    "download_url" : "https://github.com/bainternet/image-optimizer/releases/download/1.1.0/image-optimization.zip",
+    "requires" : "6.3",
+    "tested" : "6.4",
+    "requires_php" : "7.4",
+    "added" : "2023-12-25 02:10:00",
+    "last_updated" : "2022-12-25 02:10:00",
+    "homepage" : "https://elementor.com",
+    "sections" : {
+        "description" : "Automatically compress and optimize images, resize larger files, convert to WebP. Do it in bulk or upon load and turbocharge your WordPress site performance.",
+        "installation" : "Get started with a few easy steps\n1. Install & activate : Image optimizer by Elementor\n2. Go to media library or Elementor Gallery and upload an image/ choose image to compress / use Bulk optimize option\n3. Start compressing (according to the settings the user defines)",
+        "changelog" : "<h4>= 1.0.0 =</h4> Initial release"
+    },
+    "banners" : {
+        "low" : "https://elementor.com/wp-content/uploads/2021/10/do-whiteondark.svg",
+        "high" : "https://elementor.com/wp-content/uploads/2021/10/do-whiteondark.svg"
+    }
+}
